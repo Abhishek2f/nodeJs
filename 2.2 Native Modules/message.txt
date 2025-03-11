@@ -1,0 +1,2 @@
+we are rewritting the Node Js code
+we are appending text to the after writeFile
